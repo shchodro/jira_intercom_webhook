@@ -2,4 +2,3 @@ sample_jira_responses
 .env
 .rbenv*
 .idea*
-.ruby-version
